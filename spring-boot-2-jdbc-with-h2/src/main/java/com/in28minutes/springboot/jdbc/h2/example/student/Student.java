@@ -4,6 +4,8 @@ public class Student {
     private Long id;
     private String name;
     private String passportNumber;
+    
+    private String lastName;
 
     public Student() {
         super();
